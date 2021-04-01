@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Phat</h1>
-:sunglasses: I'm a Full-stack developer
-:house: I'm currently working on Orient Software Company
-:muscle: I'm strong in .Net Core & Angular+
+- :sunglasses: I'm a Full-stack developer
+- :house: I'm currently working on Orient Software Company
+- :muscle: I'm strong in .Net Core & Angular+
 <!--
 **phattran-dev/phattran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
