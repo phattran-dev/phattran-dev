@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hello! I'm Phat Tran.</h2>
-
+<h1 align="center">👋 Hello! I'm Phat Tran.</h1>
+- :sunglasses: I'm a Full-stack .Net developer
 <!--
 **phattran-dev/phattran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
